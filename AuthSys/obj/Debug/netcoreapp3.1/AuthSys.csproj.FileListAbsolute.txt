@@ -164,3 +164,8 @@ A:\user\Learning Assets\.NET-CORE\AuthSys\AuthSys\bin\Debug\netcoreapp3.1\Micros
 A:\user\Learning Assets\.NET-CORE\AuthSys\AuthSys\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
 A:\user\Learning Assets\.NET-CORE\AuthSys\AuthSys\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
 A:\user\Learning Assets\.NET-CORE\AuthSys\AuthSys\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+A:\user\Learning Assets\.NET-CORE\AuthSys\AuthSys\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+A:\user\Learning Assets\.NET-CORE\AuthSys\AuthSys\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+A:\user\Learning Assets\.NET-CORE\AuthSys\AuthSys\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+A:\user\Learning Assets\.NET-CORE\AuthSys\AuthSys\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_AuthLayout.cshtml.g.cs
+A:\user\Learning Assets\.NET-CORE\AuthSys\AuthSys\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
